@@ -24,7 +24,7 @@
 | ----: | ----: |
 | **صغير** | **Provider / BLoC بسيط** |
 | **متوسط** | **MVVM أو BLoC منظّم** |
-| **كبير** | **Clean Architecture / TDD** |
+| **كبير** | **Clean Architecture ** |
 
 ---
 
